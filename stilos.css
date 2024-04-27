@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  background-color: yellow;
+}
+.ima {
+  width: 20px;
+  height: 20px;
+}
